@@ -11,7 +11,7 @@ Compiling and running the sample will require the following dependencies:
 * CMake v2.6+
 
 For a more detailed list, included supported operating systems and optional
-dependencies for Barcode Xpress, see the official [Barcode Xpress For Linux Documentation](https://help.accusoft.com/BarcodeXpress/latest/BxLinuxCC/webframe.html#System_Requirements.html)
+dependencies for Barcode Xpress, see the official [Barcode Xpress For Linux Documentation](https://help.accusoft.com/BarcodeXpress/latest/BxLinuxCC/webframe.html#system-requirements.html)
 
 ## Running the Sample
 
